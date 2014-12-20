@@ -18,3 +18,12 @@ To use it include the plugin and just add the following code:
   
   *Note: The generated image is just a lookalike of a bokeh effect. It still needs improvemnts to emulate an exact bokeh effect*
 
+###Options
+
+| Option        | Description                                   |
+| ------------- |-------------                                  | 
+| total_light_particles | Total number of light particles       |
+| background_color | Background color of the generated image    |
+| max_particle_radius | Maximum radius of a light particle |
+| min_particle_radius | Minimum radius of a light particle |
+| log_number_of_particles | Logs number of particles in the console |
