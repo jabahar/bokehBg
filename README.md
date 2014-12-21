@@ -20,10 +20,10 @@ To use it include the plugin and just add the following code:
 
 ###Options
 
-| Option        | Description                                   |
-| ------------- |-------------                                  | 
-| total_light_particles | Total number of light particles       |
-| background_color | Background color of the generated image    |
-| max_particle_radius | Maximum radius of a light particle |
-| min_particle_radius | Minimum radius of a light particle |
-| log_number_of_particles | Logs number of particles in the console |
+| Option        | Description                                   | Default Value
+| ------------- |-------------                                  |-------------  
+| total_light_particles | Total number of light particles       | 150
+| background_color | Background color of the generated image    | #444
+| max_particle_radius | Maximum radius of a light particle | 70
+| min_particle_radius | Minimum radius of a light particle | 20
+| log_number_of_particles | Logs number of particles in the console | false
